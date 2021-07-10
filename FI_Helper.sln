@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FI_Helper", "FI_Helper\FI_Helper.csproj", "{0C795CEA-4023-4A28-86F0-D39CAD158A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C795CEA-4023-4A28-86F0-D39CAD158A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C795CEA-4023-4A28-86F0-D39CAD158A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C795CEA-4023-4A28-86F0-D39CAD158A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C795CEA-4023-4A28-86F0-D39CAD158A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6414D7C1-EEFB-4ADC-9F13-A73C5853E54B}
+	EndGlobalSection
+EndGlobal
