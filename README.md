@@ -5,6 +5,9 @@
 
 ## # FreshInstall-Helper:
 Quick Install apps after factory resets with batch install and selectable apps to install (incl runtimes)
+
+![](/Images/CMD_Picture.png)
+
 * AIO Runtimes
 * Visual Studio Community
 * Logitech G HUB
@@ -18,7 +21,8 @@ Quick Install apps after factory resets with batch install and selectable apps t
 * OperaGX
 * ShareX
 * Defender Control
-* 
+
+
 **More APPS will be added.**
 
 ## Task List :
